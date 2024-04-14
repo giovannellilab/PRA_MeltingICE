@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
-[![DOI](https://zenodo.org/badge/749468874.svg)](https://zenodo.org/doi/10.)
+[![DOI](https://zenodo.org/badge/786368549.svg)](https://zenodo.org/doi/10.5281/zenodo.10969986)
 
 
 Data, metadata and tables relative to the Italian PRA program funded MeltingICE project to sample the permafrost active layer in the Arctic.
