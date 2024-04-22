@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
-[![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
+[![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http://www.donatogiovannelli.com)
 [![DOI](https://zenodo.org/badge/786368549.svg)](https://zenodo.org/doi/10.5281/zenodo.10969986)
 
 
