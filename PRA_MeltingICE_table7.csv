@@ -1,0 +1,52 @@
+SiteID,Site name,CollectionID,Depth (cm),AC sample,Glass vial,Vacutainer,Gas bag,Notes
+BY1,,BY1B,30,,x,x,,water @40 cm
+BY1,Bayelva 1,BY1B1,30,,,x,,water @40 cm
+BY1,Bayelva 1,BY1B2,30,,,x,,water @40 cm
+BY1,Bayelva 1,BY1A1,20,,,,x,water @40 cm
+BY1,Bayelva 1,BY1B,30,,,,x,water @40 cm
+BY1,Bayelva 1,BY1F1,,x,,x,,
+BY1,Bayelva 1,BY1F3,,x,,x,,
+BY1,Bayelva 1,BY1F5,,x,,x,,
+BY1,Bayelva 1,BY1F2,,x,,x,,
+BY1,Bayelva 1,BY1F4,,x,,x,,
+BY1,Bayelva 1,BY1F6,,x,,x,,
+BY2,Bayelva 2,BY2A1,20,,,x,,
+BY2,Bayelva 2,BY2A2,20,,,x,,
+BY2,Bayelva 2,BY2,20,,,,x,
+BY3A,Bayelva 3A,BY3A1,20,,,x,,wet soil
+BY3A,Bayelva 3A,BY3A2,40,,,x,,wet soil
+BY3A,Bayelva 3A,BY3AF1,,x,,x,,wet soil
+BY3A,Bayelva 3A,BY3AF3,,x,,x,,wet soil
+BY3A,Bayelva 3A,BY3AF2,,x,,x,,wet soil
+BY3A,Bayelva 3A,BY3AF4,,x,,x,,
+BY4,Bayelva 4,BY4A1,40,,,x,,
+BY4,Bayelva 4,BY4A2,40,,,x,,
+BY4,Bayelva 4,BY4A,40,,x,,x,
+BY4,Bayelva 4,BY4B1,20,,,x,,
+BY4,Bayelva 4,BY4B2,20,,,x,,
+BY4,Bayelva 4,BY4B3,20,,,x,,
+BY4,Bayelva 4,BY4B,20,,x,,x,
+BY4,Bayelva 4,BY4F1,,x,,x,,
+BY4,Bayelva 4,BY4F2,,x,,x,,
+BY4,Bayelva 4,BY4F3,,x,,x,,
+BY4,Bayelva 4,BY4F4,,x,,x,,
+BY5,Bayelva 4,BY5A,40,,,x,,
+BY5,Bayelva 4,BY5B,40,,,x,,
+BY5,Bayelva 4,BY5,40,,x,,x,
+BY5,Bayelva 4,BY5F,,x,,,,
+BY5,Bayelva 4,BY5F11,,x,,,,
+ML1,Midtre Lovénbreen 1,ML1A1,30,,,x,,water @>30cm
+ML1,Midtre Lovénbreen 1,ML1A2,30,,,x,,water @>30cm
+ML1,Midtre Lovénbreen 1,ML1A1,30,,x,,x,water @>30cm
+ML1,Midtre Lovénbreen 1,ML1F1,,x,,,,
+ML1,Midtre Lovénbreen 1,ML1F2,,x,,,,
+ML1,Midtre Lovénbreen 1,ML1F3,,x,,,,
+M1L,Midtre Lovénbreen 1,ML1F4,,x,,,,
+CCT,Climate Change Tower,CCT1A1,40,,,x,,
+CCT,Climate Change Tower,CCT1A2,40,,,x,,
+CCT,Climate Change Tower,CCT1A,40,,x,,x,
+CCT,Climate Change Tower,CCT1B1,20,,,x,,
+CCT,Climate Change Tower,CCT1B2,20,,,x,,
+CCT,Climate Change Tower,CCT1B,20,,x,,x,
+CCT,Climate Change Tower,CCT1F1,,x,,,,
+CCT,Climate Change Tower,CCT1F2,,x,,,,
