@@ -1,0 +1,14 @@
+,,,,Soil temperature,,,
+SiteID,Site name,Latitude (°N),Longitude (°E),"Expedition 1 
+@ 2 cm (°C)","Expedition 2 
+@ 2 cm (°C)","Expedition 3 
+@ 2 cm (°C)",Notes
+BY1,Bayelva 1,78.92102,11.83289,-1.6,7.8,4.3,"Bayelva permafrost observatory 
+(Boike et al., 2018)"
+BY2,Bayelva 2,78.92315,11.83403,-3.4,5.8,4.9,
+BY3,Bayelva 3,78.92743,11.82908,-5.4,7.7,4.9,
+BY3A,Bayelva 3,78.92683,11.82886,NA,10.7,5.2,
+BY4,Bayelva 4,78.93416,11.84456,-2.8,9.2,2.7,
+BY5,Bayelva 5,78.93651,11.8586,-6.5,7.7,2.2,
+ML1,Midtre Lovénbreen 1,78.90833,12.08157,-2.4,8,3.6,"ST. 3 form J Bradley (QMUL, UK)"
+CCT,Climate ChangeTower,78.921367,11.865867,NA,8.1,5,
