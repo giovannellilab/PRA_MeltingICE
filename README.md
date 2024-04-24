@@ -14,8 +14,16 @@ Data, metadata and tables relative to the Italian PRA program funded MeltingICE 
 The repository contains the following files:
 
 - README.md (this readme file)
-- 
+- PRA_MeltingICE_table1.csv (the file containing the data reported in table 1 of the report)
+- PRA_MeltingICE_table2.csv (the file containing the data reported in table 2 of the report)
+- PRA_MeltingICE_table3.csv (the file containing the data reported in table 3 of the report)
+- PRA_MeltingICE_table4.csv (the file containing the data reported in table 4 of the report)
+- PRA_MeltingICE_table5.csv (the file containing the data reported in table 5 of the report)
+- PRA_MeltingICE_table6.csv (the file containing the data reported in table 6 of the report)
+- PRA_MeltingICE_table7.csv (the file containing the data reported in table 7 of the report)
+- PRA_MeltingICE_table8.csv (the file containing the data reported in table 8 of the report)
 
+  
 Please cite as:
 
 _Expedition report:_
