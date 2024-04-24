@@ -1,0 +1,58 @@
+SiteID,Site name,CollectionID,Borehole,Depth (cm),AC sample,Glass vial,Vacutainer,Notes
+BY1,Bayelva 1,F1A,,,x,,x,
+BY1,Bayelva 1,F1B,,,x,,x,
+BY1,Bayelva 1,BY1A,a,19,,x,,
+BY1,Bayelva 1,BY1B,a,19,,x,,
+BY1,Bayelva 1,BY1A,a,19,,,x,
+BY1,Bayelva 1,BY1B,a,19,,,x,
+BY2,Bayelva 2,BY2A1,a,25,,,x,
+BY2,Bayelva 2,BY2A1,a,25,,x,,
+BY2,Bayelva 2,BY2A2,b,14,,,x,
+BY2,Bayelva 2,BY2A2,b,14,,x,,
+BY2,Bayelva 2,BY2F10,,,x,,,
+BY2,Bayelva 2,BY2F11,,,x,,,
+BY2,Bayelva 2,BY2F12,,,x,,,bad sample
+BY2,Bayelva 2,BY2F13,,,x,,,
+BY2,Bayelva 2,BY2F14,,,x,,,
+BY3,Bayelva 3,BY3A1,,,,,x,
+BY3,Bayelva 3,BY3A1,,,,x,,
+BY3,Bayelva 3,BY3F10,a,19,x,,,
+BY3,Bayelva 3,BY3F11,a,19,x,,,
+BY4,Bayelva 4,BY4A1,a,21,,x,,
+BY4,Bayelva 4,BY4A2,a,21,,x,,
+BY4,Bayelva 4,BY4A1,a,21,,,x,
+BY4,Bayelva 4,BY4A1-B,a,21,,,x,
+BY4,Bayelva 4,BY4F1,,,x,,,
+BY4,Bayelva 4,BY4F4,,,x,,,
+BY5,Bayelva 5,BY5A1,a,23.5,,,x,
+BY5,Bayelva 5,BY5A1-B,a,23.5,,,x,
+BY5,Bayelva 5,BY5A2,a,23.5,,,x,
+BY5,Bayelva 5,BY5A1,a,23.5,,x,,
+BY5,Bayelva 5,BY5A1-B,a,23.5,,x,,
+BY5,Bayelva 5,BY5F1,,,x,,x,On the snow
+BY5,Bayelva 5,BY5F3,,,x,,x,On the snow
+BY5,Bayelva 5,BY5F4,,,x,,x,On the snow
+BY5,Bayelva 5,BY5F10,,,x,,x,
+BY5,Bayelva 5,BY5F11,,,x,,x,
+ML1,Midtre Lovénbreen 1,J3F1,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,J3F2,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,J3F3,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,J3F4,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,J3F6,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,J3F7,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,J3F8,,,x,,x,No Flux measure
+ML1,Midtre Lovénbreen 1,ML1A-1,a,17.5,,x,,
+ML1,Midtre Lovénbreen 1,ML1A-1A,a,17.5,,,x,
+ML1,Midtre Lovénbreen 1,ML1A-1B,a,17.5,,,x,
+ML1,Midtre Lovénbreen 1,ML1A-2,a,22,,x,,
+ML1,Midtre Lovénbreen 1,ML1A-2A,a,22,,,x,
+ML1,Midtre Lovénbreen 1,ML1A-3A,a,27,,x,,
+ML1,Midtre Lovénbreen 1,ML1A-3B,a,27,,x,,
+ML1,Midtre Lovénbreen 1,ML1A-3A,a,27,,,x,
+ML1,Midtre Lovénbreen 1,ML1A-3B,a,27,,,x,
+ML1,Midtre Lovénbreen 1,ML1F10,,,x,,x,
+ML1,Midtre Lovénbreen 1,ML1F11,,,x,,x,
+ML1,Midtre Lovénbreen 1,ML1F12,,,x,,x,
+ML1,Midtre Lovénbreen 1,ML1F13,,,x,,x,
+BASE,Base 3,BASEF1,,,x,,,Ny-Ålesund base
+BASE,Base 3,BASEF2,,,x,,,Ny-Ålesund base
