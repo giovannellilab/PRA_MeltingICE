@@ -1,0 +1,9 @@
+SiteID,Site name,CollectionID,Depths sampled (cm)
+BY1,Bayelva 1,BY1220614,0-5 / 10-15 / 20-30
+BY2,Bayelva 2,BY2220614,0-5 / 10-15 / 20-25
+BY3,Bayelva 3,BY3220614,0-5
+BY3A,Bayelva 3,BY3A220614,0-5 / 10-15 / 20
+BY4,Bayelva 4,BY4220619,0-5 / 10-15 / 20-25
+BY5,Bayelva 5,BY5220619,0-5 / 10-15
+ML1,Midtre Lovénbreen 1,ML1220615,0-5 / 10-15 / 20-30 / 30-40
+CCT,Climate Change Tower,CCT220618,0-5 / 10-15 / 20-30 / 30-35
