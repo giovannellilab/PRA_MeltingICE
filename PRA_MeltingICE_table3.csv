@@ -1,0 +1,28 @@
+SiteID,Site name,CollectionID,Borehole,Drill depth (cm),Core Recovery (%)
+BY1,Bayelva 1,BY1220225,a,0-19,79
+BY1,Bayelva 1,BY1220225,b,0-12,20
+BY1,Bayelva 1,BY1220225,b,12-20,50
+BY1,Bayelva 1,BY1220225,c,0-19,68
+BY2,Bayelva 2,BY2220227,a,0-14,71
+BY2,Bayelva 2,BY2220227,a,14-25,145*
+BY2,Bayelva 2,BY2220227,b,0-14,121*
+BY2,Bayelva 2,BY2220227,c,0-17.5,91
+BY3,Bayelva 3,BY3220227,a,0-14,46
+BY3,Bayelva 3,BY3220227,a,14-19,140*
+BY3,Bayelva 3,BY3220227,b,0-13,NA
+BY3,Bayelva 3,BY3220227,c,0-24,NA
+BY3,Bayelva 3,BY3220227,c,24-32,175**
+BY4,Bayelva 4,BY4220228,a,0-15,87
+BY4,Bayelva 4,BY4220228,a,15-21,83
+BY4,Bayelva 4,BY4220228,b,0-11,54
+BY4,Bayelva 4,BY4220228,c,0-15,57
+BY5,Bayelva 5,BY5220228,a,0-10,NA
+BY5,Bayelva 5,BY5220228,a,10-23.5,111**
+ML1,Midtre Lovénbreen 1,ML122031,a,0-17.5,NA
+ML1,Midtre Lovénbreen 1,ML122031,a,17.5-22,NA
+ML1,Midtre Lovénbreen 1,ML122031,a,22-27,130**
+ML1,Midtre Lovénbreen 1,ML122031,b,0-11,NA
+ML1,Midtre Lovénbreen 1,ML122031,b,11-18,157**
+ML1,Midtre Lovénbreen 1,ML122031,c,0-7.3,NA
+*Core expansion likely due to freezing upon retrieval and presence of unconsolidated layers,,,,,
+**Core recovery is overestimated due to collection of fragments from the drilling of the above section,,,,,
